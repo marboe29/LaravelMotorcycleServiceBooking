@@ -1,4 +1,4 @@
 # LaravelServiceBooking
-A1-3rdyr-Laravel-phpmyadmin
+Laravel-phpmyadmin
 
 files were too big because of framework included elsewhere..
