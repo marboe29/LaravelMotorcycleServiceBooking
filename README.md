@@ -1,4 +1,4 @@
 # LaravelMotorcycleServiceBooking
 A1-3rdyr-Laravel-phpmyadmin
 
-files were to big becuase of framework included elsewhere..
+files were too big because of framework included elsewhere..
